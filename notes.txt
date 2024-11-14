@@ -1,1 +1,3 @@
 Pathlib  : pathlib is a module in Python that provides an object-oriented interface for working with filesystem paths. 
+requirements : this is for the production environment
+requirements_dev : this is for the Development environment
